@@ -34,7 +34,7 @@
     "@fullcalendar/interaction": "6.1.10",
     "@fullcalendar/list": "6.1.10",
     "@fullcalendar/multimonth": "6.1.10",
-    "@fullcalendar/resource": "6.1.10",
+    "@fullcalendar/resource": "6.1.11",
     "@fullcalendar/resource-timegrid": "6.1.10",
     "@fullcalendar/resource-timeline": "6.1.10",
     "@fullcalendar/timegrid": "6.1.10",
